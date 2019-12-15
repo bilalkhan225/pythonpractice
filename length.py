@@ -1,0 +1,10 @@
+name="bilalkhanzada"
+print(name[0:3])
+name="bilalkhanzada"
+print(name[1:4])
+name="bilalkhanzada"
+print(name[0:-3])
+name="bilalkhanzada"
+print(name[2:5])
+name="bilalkhanzada"
+print(name[5:9])
